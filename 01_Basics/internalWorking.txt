@@ -1,0 +1,11 @@
+##internal working of python.
+
+python uses bytecode (pycache folder) , it is mostly hidden.
+pythonVM(virtual machine) , python uses Virtual machine.
+
+step1 = compile[tech term]  to bytecode  , 
+        .pyc --> compiled python (frozen Binaries).
+
+
+ 
+
