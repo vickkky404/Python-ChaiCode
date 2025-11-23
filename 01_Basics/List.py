@@ -57,3 +57,6 @@ print(tea_varities)
 # a copy with a diffrent referance..
 tea_varities_copy = tea_varities.copy()
 print(tea_varities_copy)
+
+tea_varities_copy.append("Lemon")
+print(tea_varities_copy)
