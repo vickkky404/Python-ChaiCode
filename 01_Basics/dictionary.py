@@ -12,3 +12,19 @@ print(chai_types)
 
 for chai in chai_types:
     print(chai)
+
+
+# pop method in dict
+chai_types.pop("Ginger")
+print(chai_types)
+
+
+# dlete
+del chai_types["Masala"]
+print(chai_types)
+
+# copy
+chai_types.copy = chai_types.copy()
+print(chai_types.copy)
+
+
