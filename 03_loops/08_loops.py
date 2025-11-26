@@ -6,3 +6,5 @@ if number > 1:
         if (number % i) == 0:
             is_prime = False
             break
+
+print(is_prime)
