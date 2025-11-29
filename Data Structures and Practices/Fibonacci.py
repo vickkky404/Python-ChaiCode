@@ -4,5 +4,5 @@ def fibonacci(n):
     for i in range(n):
         print(a, end=" ")
         a,b = b,a+b
-
+#ab a+b
 fibonacci(10)
