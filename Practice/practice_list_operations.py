@@ -1,0 +1,10 @@
+lst = [1, 2, 3, 4, 5]
+lst.append(6)
+lst.extend([7, 8])
+lst.insert(0, 0)
+lst.remove(3)
+popped = lst.pop()
+lst.sort(reverse=True)
+print(f"List: {lst}")
+print(f"Length: {len(lst)}")
+print(f"Index of 4: {lst.index(4) if 4 in lst else 'Not found'}")
