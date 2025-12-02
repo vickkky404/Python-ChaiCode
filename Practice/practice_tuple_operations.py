@@ -1,0 +1,10 @@
+t = (1, 2, 3, 4, 5)
+t2 = ("a", "b", "c")
+combined = t + t2
+print("Original tuple:", t)
+print("Tuple 2:", t2)
+print("Combined tuple:", combined)
+print("Length:", len(t))
+print("Min:", min(t), "Max:", max(t))
+print("Index of 3:", t.index(3))
+print("Count of 2:", t.count(2))
