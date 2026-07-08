@@ -1,2 +1,2 @@
 # Python-ChaiCode
-Core Python
+Core Python from introduction to Loops , variables , logical Problems
