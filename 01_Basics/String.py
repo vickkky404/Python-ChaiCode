@@ -11,7 +11,7 @@ SyntaxError: invalid syntax
 first_char =  chai[0]
 print(chai)
 Lemon Chai
-
+#String concept in python
 
 cha
 Traceback (most recent call last):
